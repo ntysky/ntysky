@@ -4,6 +4,3 @@
 - 👩‍💻 I'm doing personal projects to put into practice what I'm learning;
 - 📖 The word that defines me now is "learner". My mind is open to learning and challenging myself 🧠.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntysky&hide_progress=true)
-
-
